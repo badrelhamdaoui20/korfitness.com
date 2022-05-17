@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://korfitness.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://korfitness.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://korfitness.com/collections/shorts.atom"/>
+  <title>KOR Fitness</title>
+  <updated>2020-08-24T13:00:01-04:00</updated>
+  <author>
+    <name>KOR Fitness</name>
+  </author>
+  <entry>
+    <id>https://korfitness.com/products/4734753079384</id>
+    <published>2020-08-24T13:00:01-04:00</published>
+    <updated>2020-08-24T13:00:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://korfitness.com/products/compression-shorts-women"/>
+    <title>Hyper Compression Workout Shorts</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>Hyper-Shorts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/3931/1192/products/hyper-shorts-shorts-aqua-blue-s-hyper-compression-workout-shorts-15472145104984.jpg?v=1650331638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hyper-Shorts<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            20.00 - 25.00
+            <a href="https://korfitness.com/products/compression-shorts-women">(20 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="b-product_description-main">
+<div class="b-product_description-content">We designed our<strong> Hyper Compression Workout Shorts</strong> for those who value quality and performance.  Upgrade your look! They come in six vibrant colors. S<span>uper stretchy with a high waist and they are totally squat proof!  </span>You'll want them in every color.</div>
+<div class="b-product_description-content"><span></span></div>
+<div class="b-product_description-content"><span></span></div>
+</div>
+<p><strong><br><br>Details:</strong></p>
+<ul>
+<li>High waist compression design</li>
+<li>Model is 5'4' and is wearing a size medium</li>
+<li>4-way stretch fabric</li>
+<li>Wide elastic waistband</li>
+<li>Material: 90% nylon, 10% spandex</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bike Shorts</s:tag>
+    <s:tag>High Waist</s:tag>
+    <s:tag>leggings</s:tag>
+    <s:tag>Push Up</s:tag>
+    <s:tag>Seamless</s:tag>
+    <s:tag>stars_5.0</s:tag>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Aqua Blue / XS</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>8977-aqa-s</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Aqua Blue / S</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>8977-aqa-s</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Aqua Blue / M</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>8977-aqa-m</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Aqua Blue / L</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>8977-aqa-l</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Red Crush / XS</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>8977-red-s</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Red Crush / S</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>8977-red-s</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Red Crush / M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>8977-red-m</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Red Crush / L</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>8977-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Midnight Black / XS</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>8977-blk-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Midnight Black / S</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>8977-blk-s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Midnight Black / M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>8977-blk-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Midnight Black / L</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>8977-blk-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Dark Pink / XS</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>8977-pnk-s</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Dark Pink / S</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>8977-pnk-s</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Dark Pink / M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>8977-pnk-m</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Dark Pink / L</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>8977-pnk-l</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Mint Green / XS</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>8977-mnt-s</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Mint Green / S</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>8977-mnt-s</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Mint Green / M</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>8977-mnt-m</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4734753079384</id>
+      <title>Mint Green / L</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>8977-mnt-l</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://korfitness.com/products/4607924371544</id>
+    <published>2020-05-12T15:10:41-04:00</published>
+    <updated>2020-05-12T15:10:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://korfitness.com/products/mesh-panel-high-rise-shorts"/>
+    <title>Mesh Panel High Rise Shorts</title>
+    <s:type>Shorts</s:type>
+    <s:vendor>mesh-panel-high-rise-shorts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/3931/1192/products/mesh-panel-high-rise-shorts-shorts-baby-blue-s-mesh-panel-high-rise-shorts-14767542468696.jpg?v=1650335589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>mesh-panel-high-rise-shorts<br>
+        <strong>Type: </strong>Shorts<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Improve your gym'drobe with these <strong>﻿Mesh Panel High Rise Shorts</strong>. Light weight and made from a comfortable poly-spandex fabric. Designed with 4-way stretch so you can move with ease. S<span>uper stretchy, high waisted and they are squat proof!</span><br></p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>High Waist Design</li>
+<li>The model is 5'4' and is wearing a size M</li>
+<li>4-way Stretch Fabric</li>
+<li>Mesh Inserts</li>
+<li>Breathable Sweat Wicking Properties</li>
+<li>Elastic Waistline</li>
+<li>52% Nylon, 40% Polyester, 8% Spandex</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bike Shorts</s:tag>
+    <s:tag>Gym Leggings</s:tag>
+    <s:tag>High Waist</s:tag>
+    <s:tag>Push Up</s:tag>
+    <s:tag>Seamless</s:tag>
+    <s:tag>stars_5.0</s:tag>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Baby Blue / S</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-BB-S</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Baby Blue / M</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-BB-M</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Baby Blue / L</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-BB-L</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Pink / S</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-Pnk-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Pink / M</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-Pnk-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Pink / L</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-Pnk-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Black / S</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-Blk-S</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Black / M</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-Blk-M</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Black / L</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-Blk-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Purple Crush / S</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-PC-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Purple Crush / M</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-PC-M</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Purple Crush / L</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-PC-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Green / S</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-G-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Green / M</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-G-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Green / L</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-G-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Burgundy / S</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-BG-S</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Burgundy / M</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-BG-M</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Burgundy / L</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-BG-L</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Lime Green / S</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-LG-S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Lime Green / M</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-LG-M</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4607924371544</id>
+      <title>Lime Green / L</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>9899-LG-L</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

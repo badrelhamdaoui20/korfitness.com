@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://korfitness.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://korfitness.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://korfitness.com/collections/accessories.atom"/>
+  <title>KOR Fitness</title>
+  <updated>2021-06-04T14:56:28-04:00</updated>
+  <author>
+    <name>KOR Fitness</name>
+  </author>
+  <entry>
+    <id>https://korfitness.com/products/6644548206680</id>
+    <published>2021-06-04T14:56:28-04:00</published>
+    <updated>2021-06-04T14:56:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://korfitness.com/products/bikini-swimsuit-floral"/>
+    <title>Floral Bikini</title>
+    <s:type>Swim</s:type>
+    <s:vendor>KOR Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/3931/1192/products/kor-fitness-swim-small-floral-bikini-28261024464984.jpg?v=1650333962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOR Fitness<br>
+        <strong>Type: </strong>Swim<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><span class="productText" data-bind="html: MainDescription" data-mce-fragment="1">Take this floral bikini with you wherever you go this summer!</span></h4>
+Features:<br data-mce-fragment="1">
+<ul class="productText" data-bind="foreach: Descriptions" data-mce-fragment="1">
+<li data-bind="text: $data" data-mce-fragment="1">Black tassels with adjustable ties</li>
+<li data-bind="text: $data" data-mce-fragment="1">Removable padding</li>
+<li data-bind="text: $data" data-mce-fragment="1">Ties at the back</li>
+<li data-bind="text: $data" data-mce-fragment="1">Polyamide/elastane; lining: polyamide.</li>
+<li data-bind="text: $data" data-mce-fragment="1">80% Nylon 20% Spandex</li>
+<li data-bind="text: $data" data-mce-fragment="1">Hand wash, no bleach, hang to dry</li>
+<li data-bind="text: $data" data-mce-fragment="1">No dryer, iron, or dry clean</li>
+</ul>
+<p> </p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0073/3931/1192/products/image_6487327_5_480x480.jpg?v=1622834976"></p>
+<p>*For our customer's safety no returns on swimwear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bands</s:tag>
+    <s:tag>Bikini</s:tag>
+    <s:tag>Swim</s:tag>
+    <s:tag>Swimsuit</s:tag>
+    <s:tag>Swimwear</s:tag>
+    <s:variant>
+      <id>https://korfitness.com/products/6644548206680</id>
+      <title>XS</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6644548206680</id>
+      <title>Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku/>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6644548206680</id>
+      <title>Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku/>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6644548206680</id>
+      <title>L</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku/>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://korfitness.com/products/6644539588696</id>
+    <published>2021-06-04T14:37:41-04:00</published>
+    <updated>2021-06-04T14:37:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://korfitness.com/products/copy-of-bikini-swimsuit-jungle-print-1"/>
+    <title>Bikini Swimsuit | Triangle</title>
+    <s:type>Swim</s:type>
+    <s:vendor>Bikini Swimsuit Triangle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/3931/1192/products/bikini-swimsuit-triangle-swim-small-bikini-swimsuit-triangle-28260966662232.jpg?v=1650331101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bikini Swimsuit Triangle<br>
+        <strong>Type: </strong>Swim<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span data-bind="html: MainDescription" class="productText" data-mce-fragment="1">The KOR triangle bikini top with a matching bottom is a stunner.</span></h3>
+<ul data-bind="foreach: Descriptions" class="productText" data-mce-fragment="1">
+<li data-bind="text: $data" data-mce-fragment="1">Removable padding</li>
+<li data-bind="text: $data" data-mce-fragment="1">Ties at the back</li>
+<li data-bind="text: $data" data-mce-fragment="1">Polyamide/elastane; lining: polyamide</li>
+<li data-bind="text: $data" data-mce-fragment="1">80% Nylon 20% Spandex</li>
+<li data-bind="text: $data" data-mce-fragment="1">Hand wash, no bleach, hang to dry</li>
+<li data-bind="text: $data" data-mce-fragment="1">No dryer, iron, or dry clean</li>
+</ul>
+<div style="text-align: left;"><img style="float: none;" alt="Triangle Bikini" src="https://cdn.shopify.com/s/files/1/0073/3931/1192/products/image_6487327_4_240x240.jpg?v=1623147779"></div>
+<p>*For our customer's safety no returns on swimwear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bands</s:tag>
+    <s:tag>Bikini</s:tag>
+    <s:tag>Swim</s:tag>
+    <s:tag>Swimsuit</s:tag>
+    <s:tag>Swimwear</s:tag>
+    <s:variant>
+      <id>https://korfitness.com/products/6644539588696</id>
+      <title>XS</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6644539588696</id>
+      <title>Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku/>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6644539588696</id>
+      <title>Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku/>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6644539588696</id>
+      <title>Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://korfitness.com/products/6644531855448</id>
+    <published>2021-06-04T14:22:33-04:00</published>
+    <updated>2021-06-04T14:22:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://korfitness.com/products/bikini-swimsuit-jungle-print"/>
+    <title>Bikini Swimsuit | Black and White Striped</title>
+    <s:type>Swim</s:type>
+    <s:vendor>KOR Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/3931/1192/products/kor-fitness-swim-small-bikini-swimsuit-black-and-white-striped-28260918689880.jpg?v=1650331094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOR Fitness<br>
+        <strong>Type: </strong>Swim<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span class="productText" data-bind="html: MainDescription" data-mce-fragment="1">This striped bikini with gold accents will be your new go-to swimsuit for any occasion.</span><br data-mce-fragment="1">
+<ul class="productText" data-bind="foreach: Descriptions" data-mce-fragment="1">
+<li data-bind="text: $data" data-mce-fragment="1">Popular black and white print w/ floral mix pattern</li>
+<li data-bind="text: $data" data-mce-fragment="1">Removable padding</li>
+<li data-bind="text: $data" data-mce-fragment="1">Ties at the back</li>
+<li data-bind="text: $data" data-mce-fragment="1">Polyamide/elastane; lining: polyamide.</li>
+<li data-bind="text: $data" data-mce-fragment="1">80% nylon 20% spandex</li>
+<li data-bind="text: $data" data-mce-fragment="1">Hand wash, no bleach, hang to dry</li>
+<li data-bind="text: $data" data-mce-fragment="1">No dryer, iron, or dry clean</li>
+</ul>
+<p>*For our sanitary reasons no returns on swimwear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bands</s:tag>
+    <s:tag>Bikini</s:tag>
+    <s:tag>Swim</s:tag>
+    <s:tag>Swimsuit</s:tag>
+    <s:tag>Swimwear</s:tag>
+    <s:variant>
+      <id>https://korfitness.com/products/6644531855448</id>
+      <title>XS</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6644531855448</id>
+      <title>Small</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku/>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6644531855448</id>
+      <title>Medium</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6644531855448</id>
+      <title>Large</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku/>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://korfitness.com/products/6644363493464</id>
+    <published>2021-06-04T14:01:34-04:00</published>
+    <updated>2021-06-04T14:01:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://korfitness.com/products/bikini-tropical-print"/>
+    <title>Bikini Swimsuit | Jungle Print</title>
+    <s:type>Swim</s:type>
+    <s:vendor>Bikini Swimsuit Jungle Print</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/3931/1192/products/bikini-swimsuit-jungle-print-swim-small-bikini-swimsuit-jungle-print-28260485660760.jpg?v=1650331098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bikini Swimsuit Jungle Print<br>
+        <strong>Type: </strong>Swim<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span class="productText" data-bind="html: MainDescription" data-mce-fragment="1">A tropical print bikini top with the matching bottom is sure to the season's most popular look!</span><span data-mce-fragment="1"></span><br data-mce-fragment="1">
+<ul class="productText" data-bind="foreach: Descriptions" data-mce-fragment="1">
+<li data-bind="text: $data" data-mce-fragment="1">Floral and Tropical print mix pattern</li>
+<li data-bind="text: $data" data-mce-fragment="1">Removable padding</li>
+<li data-bind="text: $data" data-mce-fragment="1">Ties at the back</li>
+<li data-bind="text: $data" data-mce-fragment="1">Polyamide/elastane; lining: polyamide.</li>
+<li data-bind="text: $data" data-mce-fragment="1">80% Nylon 20% Spandex</li>
+<li data-bind="text: $data" data-mce-fragment="1">Hand wash, no bleach, hang to dry</li>
+<li data-bind="text: $data" data-mce-fragment="1">No dryer, iron, or dry clean</li>
+</ul>
+<p>*For our customer's safety no returns on swimwear.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bands</s:tag>
+    <s:tag>Bikini</s:tag>
+    <s:tag>Swim</s:tag>
+    <s:tag>Swimsuit</s:tag>
+    <s:tag>Swimwear</s:tag>
+    <s:variant>
+      <id>https://korfitness.com/products/6644363493464</id>
+      <title>XS</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6644363493464</id>
+      <title>Small</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6644363493464</id>
+      <title>Medium</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6644363493464</id>
+      <title>Large</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://korfitness.com/products/4598671016024</id>
+    <published>2020-05-06T09:10:00-04:00</published>
+    <updated>2020-05-06T09:10:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://korfitness.com/products/booty-resistance-bands"/>
+    <title>Exercise Workout Bands, Resistance Bands for Women, 3 Levels Booty Bands for Legs and Butt</title>
+    <s:type>Resistance Bands</s:type>
+    <s:vendor>exercise-resistance-bands</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/3931/1192/products/exercise-resistance-bands-resistance-bands-exercise-workout-bands-resistance-bands-for-women-3-levels-booty-bands-for-legs-and-butt-14699996020824.jpg?v=1650333431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>exercise-resistance-bands<br>
+        <strong>Type: </strong>Resistance Bands<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="a-size-large a-spacing-none">Burn more calories with 3 resistance levels: Light, Medium &amp; Heavy, 3 different lengths (Sm 13 inch, Med 15 inch, Lg 17 inch). Comfortable, durable, and designed to meet your exercise goals.<br>
+</h1>
+<p>These booty bands are a must-have accessory in your gym bag.<br></p>
+<p><strong>Details:</strong></p>
+<ul>
+<li><span>Durable and anti-slip design </span></li>
+<li><span>Made of high-quality cotton-polyester stretch fabric material</span></li>
+<li><span>Won't slide or roll up </span></li>
+<li><span>3 designer colors (Pink, Green, Purple)</span></li>
+<li>Comes in a convenient mesh carrying bag</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Bands</s:tag>
+    <s:tag>Booty</s:tag>
+    <s:tag>Exercise</s:tag>
+    <s:tag>Resistance</s:tag>
+    <s:variant>
+      <id>https://korfitness.com/products/4598671016024</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.00</s:price>
+      <s:sku>8981-BAND</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

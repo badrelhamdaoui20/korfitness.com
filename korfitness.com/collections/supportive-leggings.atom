@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://korfitness.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://korfitness.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://korfitness.com/collections/supportive-leggings.atom"/>
+  <title>KOR Fitness</title>
+  <updated>2022-03-07T09:59:55-05:00</updated>
+  <author>
+    <name>KOR Fitness</name>
+  </author>
+  <entry>
+    <id>https://korfitness.com/products/3922686345304</id>
+    <published>2022-03-07T09:59:55-05:00</published>
+    <updated>2022-03-07T09:59:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://korfitness.com/products/white-striped-performance-leggings"/>
+    <title>White Striped Performance Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>white-striped-performance-leggings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/3931/1192/products/white-striped-performance-leggings-leggings-hunter-green-l-white-striped-performance-leggings-14529322680408.jpg?v=1650338102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>white-striped-performance-leggings<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.com/s/files/1/0073/3931/1192/files/SafeCh_large.png?v=1562595331" alt="KOR Fitness" width="412" height="79"></p>
+<p>Get your training gear sorted for the summer by opting for these <strong>﻿White Striped Performance Leggings</strong>. With a wide waistband for a snug slip-free fit and a compressed fit through the legs, these leggings help maximize freedom of movement while also boasting sweat-wicking properties. All you need is a pair of our White Striped Performance Leggings<strong> </strong>and a sports bra to complete your look.</p>
+<p> </p>
+<p><strong>Details:</strong></p>
+<ul>
+<li>High waisted</li>
+<li>Model is 5'4" and is wearing a medium size</li>
+<li>Striped design</li>
+<li><span>80% nylon, 10% polyester, 10% spandex</span></li>
+<li>4-way stretch fabric</li>
+<li>Sweat-wicking properties</li>
+<li>Breathable </li>
+<li>Squat proof!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gym Leggings</s:tag>
+    <s:tag>High Waist</s:tag>
+    <s:tag>stars_5.0</s:tag>
+    <s:tag>Superstar</s:tag>
+    <s:variant>
+      <id>https://korfitness.com/products/3922686345304</id>
+      <title>Hunter Green / XS</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/3922686345304</id>
+      <title>Hunter Green / S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/3922686345304</id>
+      <title>Hunter Green / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/3922686345304</id>
+      <title>Hunter Green / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/3922686345304</id>
+      <title>Hunter Green / XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/3922686345304</id>
+      <title>Pink / XS</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27516758-red-s</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/3922686345304</id>
+      <title>Pink / S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27516758-red-m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/3922686345304</id>
+      <title>Pink / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27516758-red-m</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/3922686345304</id>
+      <title>Pink / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27516758-red-l</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/3922686345304</id>
+      <title>Black / XS</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27516758-black-s</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/3922686345304</id>
+      <title>Black / S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27516758-black-m</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/3922686345304</id>
+      <title>Black / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27516758-black-l</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/3922686345304</id>
+      <title>Black / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27516758-black-l</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/3922686345304</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27516758-black-l</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/3922686345304</id>
+      <title>Gray / XS</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27516758-gray-s</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/3922686345304</id>
+      <title>Gray / S</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27516758-gray-m</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/3922686345304</id>
+      <title>Gray / M</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27516758-gray-m</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/3922686345304</id>
+      <title>Gray / L</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>27516758-gray-l</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://korfitness.com/products/4840707260504</id>
+    <published>2021-06-16T11:34:09-04:00</published>
+    <updated>2021-06-16T11:34:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://korfitness.com/products/black-textured-seamless-leggings"/>
+    <title>Textured Seamless Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>yoga-leggings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/3931/1192/products/yoga-leggings-leggings-black-small-textured-seamless-leggings-16027297874008.jpg?v=1650337747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>yoga-leggings<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>(Limited Stock)</strong>  The KOR Textured Seamless Leggings are super soft, lightweight, and stretchy. The non see-through fabric adjusts to your every movement. Engineered to hide imperfections, sculpt and contour. Special wrinkling process for a better push-up effect. Anti-drop high rise waistband with tummy control, no muffin top or digging in</p>
+<ul>
+<li>Material: Nylon/Spandex</li>
+<li>Model is 5'4" and wear a size medium</li>
+<li>Order true to size.  If in-between size up.</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Friday</s:tag>
+    <s:tag>Gym Leggings</s:tag>
+    <s:tag>leggings</s:tag>
+    <s:variant>
+      <id>https://korfitness.com/products/4840707260504</id>
+      <title>Black / XS</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4840707260504</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4840707260504</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4840707260504</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4840707260504</id>
+      <title>Black / XXL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4840707260504</id>
+      <title>Peach / Medium</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://korfitness.com/products/6633723297880</id>
+    <published>2021-05-27T17:18:40-04:00</published>
+    <updated>2021-05-27T17:18:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://korfitness.com/products/seamless-leggings-w-tummy-control"/>
+    <title>Seamless Leggings w/ Tummy Control</title>
+    <s:type></s:type>
+    <s:vendor>KOR Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/3931/1192/products/kor-fitness-orange-small-seamless-leggings-w-tummy-control-28238703296600.jpg?v=1650337205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KOR Fitness<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Our </span><strong data-mce-fragment="1">﻿Seamless Leggings with Tummy Control</strong> highlight your assets. They are designed for performance and style.  Pair w/ matching sport-bra to complete the look.  </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">High waist design</li>
+<li data-mce-fragment="1">Model is 5'4" wearing a size medium and has a 28" waist</li>
+<li data-mce-fragment="1">4-way stretch fabric</li>
+<li data-mce-fragment="1">Breathable material w/ sweat wicking properties</li>
+<li data-mce-fragment="1">Elastic waistline</li>
+<li data-mce-fragment="1">Nylon, Spandex<br data-mce-fragment="1">
+</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1"> Fit:</strong>  Recommend ordering size up if you are in-between.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>leggings</s:tag>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Orange / Small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Orange / Medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Orange / Large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Orange / Extra Small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Light Grey / Small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Light Grey / Medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Light Grey / Large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Dark Grey / Small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Dark Grey / Medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Dark Grey / Large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Dark Grey / Extra Small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Purple / Small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Purple / Medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Purple / Large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Emerald Green / Small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Emerald Green / Medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Emerald Green / Large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Baby Blue / Small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Baby Blue / Medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/6633723297880</id>
+      <title>Baby Blue / Large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://korfitness.com/products/4840682389592</id>
+    <published>2021-03-27T11:19:59-04:00</published>
+    <updated>2021-03-27T11:19:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://korfitness.com/products/halo-leggings"/>
+    <title>Halo High Waist Workout Leggings (NEW)</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Halo-leggings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/3931/1192/products/halo-leggings-leggings-grey-small-halo-high-waist-workout-leggings-new-28058231210072.jpg?v=1650333972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Halo-leggings<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Halo High Waist Workout Leggings</strong> (Limited Stock). Give you a stylish edge next time you hit the gym.  The breathable, seamless fabric with a slightly compressive fit gives you ultimate comfort, support, and style. </p>
+<p><strong>Details:</strong></p>
+<ul>
+<li>Designed for comfort and performance</li>
+<li>Banded design w/ high waist</li>
+<li>Body sculpting</li>
+<li>Ideal for gym / WFH / daily wear</li>
+<li>Model is 5'4" and is wearing a size medium</li>
+<li>Material: Nylon/Spandex </li>
+</ul>
+<p> </p>
+<p><img src="https://cdn.shopify.com/s/files/1/0073/3931/1192/products/IMG_6105_480x480.jpg?v=1623110518" alt=""></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Friday</s:tag>
+    <s:tag>Gym Leggings</s:tag>
+    <s:tag>leggings</s:tag>
+    <s:tag>workout leggings</s:tag>
+    <s:variant>
+      <id>https://korfitness.com/products/4840682389592</id>
+      <title>Grey / Small</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4840682389592</id>
+      <title>Grey / Medium</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4840682389592</id>
+      <title>Grey / Large</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4840682389592</id>
+      <title>Aqua / Small</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4840682389592</id>
+      <title>Aqua / Medium</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4840682389592</id>
+      <title>Aqua / Large</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4840682389592</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4840682389592</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4840682389592</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://korfitness.com/products/4840984772696</id>
+    <published>2020-11-26T13:53:25-05:00</published>
+    <updated>2020-11-26T13:53:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://korfitness.com/products/breathable-leggings-crop"/>
+    <title>High Waisted Capri Leggings - 20&quot;</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>yoga-leggings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/3931/1192/products/yoga-leggings-leggings-black-small-high-waisted-capri-leggings-20-16028051865688.jpg?v=1650331634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>yoga-leggings<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>(Limited Stock) KOR High Waisted Capri Leggings </strong>are designed with a high-rise elasticated waistband for extra support, these Capri leggings are a must-have!</p>
+<p><strong>FEATURES:</strong></p>
+<ul>
+<li>High Waist Design</li>
+<li>Model is 5'4" and wears a size S</li>
+<li>Soft Breathable 4-way Stretch Fabric</li>
+<li>Slim Tummy Control<br>
+</li>
+<li>Elastic Waistline</li>
+<li>94% Spandex, 6% Nylon<br><br><br>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">SIZE GUIDE:</strong></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Recommend ordering true to size but if you're in-between, <br data-mce-fragment="1">size up</li>
+</ul>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Black Friday</s:tag>
+    <s:tag>Gym Leggings</s:tag>
+    <s:tag>leggings</s:tag>
+    <s:variant>
+      <id>https://korfitness.com/products/4840984772696</id>
+      <title>Black / XS</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4840984772696</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4840984772696</id>
+      <title>Black / Medium</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku/>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4840984772696</id>
+      <title>Black / Large</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://korfitness.com/products/4399141814360</id>
+    <published>2019-11-26T22:47:03-05:00</published>
+    <updated>2019-11-26T22:47:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://korfitness.com/products/bold-high-rise-leggings"/>
+    <title>Signature High Rise Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>bold-high-rise-leggings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/3931/1192/products/bold-high-rise-leggings-leggings-navy-blue-s-nylon-spandex-signature-high-rise-leggings-14214886391896.jpg?v=1650332163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>bold-high-rise-leggings<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Ultra soft material that is perfect for all day wear.  Our <strong>Signature</strong> <strong>High Rise Leggings</strong> feature a flattering high-waist compression waistband, subtle quad and booty contour, and full-length design. We think these are a game changer! Will you? <br>
+</div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div><strong>FEATURES:<br><br></strong></div>
+<p>* High-Rise Fit<br>* Model is 5'4" and wearing a size S<br>* Form Fitting &amp; <span style="text-decoration: underline;">Squat Proof!</span><br>* Contouring Seam Lines<br>* Solid Design Colors<br>* Super Soft Feel<br>* 87% Nylon 13% Spandex<br>* KOR Fitness signature logo on the bottom ankle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bold</s:tag>
+    <s:tag>Gym Leggings</s:tag>
+    <s:tag>High Rise</s:tag>
+    <s:tag>High Waisted</s:tag>
+    <s:tag>Seamless</s:tag>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Navy Blue / S / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Navy Blue / M / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Navy Blue / L / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Military Green / S / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Military Green / M / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Military Green / L / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Purple / S / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Purple / M / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Purple / L / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Midnight Black / XS / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Midnight Black / S / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Midnight Black / M / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Midnight Black / L / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Sky Blue / S / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Sky Blue / M / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Sky Blue / L / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Smoke Grey / S / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Smoke Grey / M / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Smoke Grey / L / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Blush / S / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Blush / M / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Blush / L / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Teal / S / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Teal / M / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Teal / L / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Wine Red / S / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Wine Red / M / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4399141814360</id>
+      <title>Wine Red / L / Nylon/Spandex</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://korfitness.com/products/4364795019352</id>
+    <published>2019-11-12T10:49:34-05:00</published>
+    <updated>2019-11-12T10:49:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://korfitness.com/products/fitness-compression-yoga-bra"/>
+    <title>Workout Compression Yoga Bra</title>
+    <s:type>Yoga Bra</s:type>
+    <s:vendor>workout-compression-yoga-bra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0073/3931/1192/products/workout-compression-yoga-bra-yoga-bra-workout-compression-yoga-bra-16029365370968.jpg?v=1650338115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>workout-compression-yoga-bra<br>
+        <strong>Type: </strong>Yoga Bra<br>
+        <strong>Price: </strong>
+            25.00 - 30.00
+            <a href="https://korfitness.com/products/fitness-compression-yoga-bra">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Our Workout <strong>Compression Yoga Bra</strong> gives you a stylish edge while the breathable, seamless fabric and a slightly compressive fit gives you ultimate comfort and support. </span></p>
+<p>+Material: Nylon/Spandex <br></p>
+<p>+Models are 5'4" and wear a size M</p>
+<p>+Sport Yoga Wear</p>
+<p>+Designed for Comfort </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Push Up</s:tag>
+    <s:tag>Sports Bra</s:tag>
+    <s:variant>
+      <id>https://korfitness.com/products/4364795019352</id>
+      <title>Midnite Black / Small</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4364795019352</id>
+      <title>Midnite Black / Medium</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4364795019352</id>
+      <title>Midnite Black / Large</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4364795019352</id>
+      <title>Skin / Small</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4364795019352</id>
+      <title>Skin / Medium</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4364795019352</id>
+      <title>Skin / Large</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4364795019352</id>
+      <title>Carbon Grey / Small</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4364795019352</id>
+      <title>Carbon Grey / Medium</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4364795019352</id>
+      <title>Carbon Grey / Large</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4364795019352</id>
+      <title>Brown / Small</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4364795019352</id>
+      <title>Brown / Medium</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4364795019352</id>
+      <title>Brown / Large</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://korfitness.com/products/4364795019352</id>
+      <title>Black / Small</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+</feed>
